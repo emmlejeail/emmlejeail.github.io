@@ -20,6 +20,9 @@ linkedin_username: "emmanuellelejeail"
 #########################################################################################
 theme: "minima"
 
+minima:
+  skin: dark
+
 rss: rss
 
 kramdown:
