@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi, I am a Software engineer working from Paris, France with a couple of years of experience below by belt.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I want to share through this blog some of my learnings or thoughts on any topic tech related.
