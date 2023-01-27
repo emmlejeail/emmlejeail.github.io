@@ -23,6 +23,7 @@ theme: "minima"
 header_pages:
   - archive.md
   - books.md
+  - resume.html
 
 minima:
   skin: dark
