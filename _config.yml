@@ -20,6 +20,10 @@ linkedin_username: "emmanuelle-lejeail"
 #########################################################################################
 theme: "minima"
 
+header_pages:
+  - archive.md
+  - books.md
+
 minima:
   skin: dark
 
