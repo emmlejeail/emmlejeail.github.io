@@ -1,0 +1,27 @@
+theme: default
+header:
+  name: Emmanuelle Lejeail
+  display_contact_info: true
+  current_title: Software Engineer
+  intro: >
+    Dynamic and motivated software engineer, with 4+ years of experience in backend software engineer and data engineering.
+    Passionate about distributed systems and machine learning. I like to build things for fun (and sometimes break them).
+    My ideal workday is one where I get out of my comfort zone to learn about a new technical skill.
+    I am your out-going type of engineer, that likes giving presentations and working with a team.
+
+contact:
+  email: manu.lejeail@gmail.com
+sections:
+  experience: true
+  education: true
+  projects: true
+  skills: true
+  recognition: true
+  associations: false
+  interests: true
+  links: true
+  social_links: false
+social:
+  GitHub: https://github.com/emmlejeail
+  Twitter: https://twitter.com/ManuLejeail
+  LinkedIn: https://linkedin.com/in/emmanuelle-lejeail
