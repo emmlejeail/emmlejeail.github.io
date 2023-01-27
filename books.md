@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Books
-description: My opinions on books I have read for professional / carreer development
+title: Book Reviews
+description: My opinions on books I have read for professional / carreer development as a software engineer
 ---
 
-Books that I have read for work / professional development and that I would recommend
+My opinion on books that I have read for work / professional development and that I would recommend.
 
 {% for book in site.data.books %}
 * [*{{ book.title }}*{% if book.author %} by {{ book.author }}{% endif %}]({{ book.link }}){:target="_blank"}
