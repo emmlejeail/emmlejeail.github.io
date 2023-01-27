@@ -1,0 +1,13 @@
+# - title: Title of the book
+#   author: list of authors
+#   summary: personal/official summary of book
+#   link: link to purchase book
+#   rating: ⭐⭐⭐⭐⭐ (review of book using star emojis)
+#   isCurrent: bool - indicating currently reading
+#   completeDate: date of completion
+
+- title: System Design Interview
+  author: Alex Xu
+  summary: \"A book that shares a method to solving system design interviews but also a great book to learn a couple of technical core concepts for distributed systems. The books share many examples of systems you might be asked to design in an interview which is also useful.\"
+  link: https://amzn.to/B08CMF2CQF
+  rating: ⭐⭐⭐⭐⭐
