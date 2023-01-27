@@ -9,16 +9,13 @@
   {% seo %}
   <!-- End SEO -->
 
-  <link rel="stylesheet" href="{{ " /assets/main.cs" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/main.cs" | relative_url }}">
   <link rel="stylesheet" type="text/css" href="/css/override.css">
 
-  {% feed_meta %}
-
-  {% if jekyll.environment == 'production' and site.google_analytics -%}
-  <!-- Begin Google Analytics -->
-  {% include google-analytics.html %}
-  <!-- End Google Analytics -->
-  {%- endif %}
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
 
   <!-- Begin highlight.js support -->
   <link rel="stylesheet" href="/js/highlightjs/styles/github.css">
@@ -41,7 +38,7 @@
   <script type="text/javascript">
     DarkReader.setFetchMethod(window.fetch); // Fix to remedy CORS errors in chrome console
     //DarkReader.enable();
-    DarkReader.auto({ brightness: 100, contrast: 90, sepia: 10 });
+    DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
   </script>
   {%- endif %}
 
