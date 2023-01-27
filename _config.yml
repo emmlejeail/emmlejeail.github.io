@@ -42,6 +42,9 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+google_analytics:
+  - G-MHGM02RM09
+
 defaults:
   - scope:
       path: ""
