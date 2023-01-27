@@ -1,6 +1,6 @@
-title: "Emmanuelle's Brew"
+title: "Homebrew"
 author: "Emmanuelle Lejeail"
-description: "Sharing learnings and thougths on tech related topics as an early career engineer" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Sharing learnings and though on tech related topics as an early career engineer" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -28,7 +28,7 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-
+    
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -42,5 +42,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags:
-        - Other
+      tags: Other
