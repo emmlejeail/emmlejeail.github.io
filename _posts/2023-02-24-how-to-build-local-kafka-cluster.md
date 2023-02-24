@@ -1,5 +1,7 @@
 ## How to Build a Kafka Cluster Locally with Docker
 
+![Kafka logo](../img/kafka_logo.png) ![Docker logo](../img/docker_logo.png)
+
 Apache Kafka is a popular distributed streaming platform that can handle real-time data feeds with ease. It is a reliable and scalable system that can handle millions of messages per second, making it an ideal choice for many use cases. However, setting up a Kafka cluster can be a daunting task. Fortunately, with Docker, you can create a local Kafka cluster quickly and easily.
 
 In this tutorial, we will walk you through the steps required to build a Kafka cluster with Docker.
