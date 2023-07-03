@@ -1,0 +1,19 @@
+# - title: Title of the book
+#   author: list of authors
+#   summary: personal/official summary of book
+#   link: link to purchase book
+#   rating: ⭐⭐⭐⭐⭐ (review of book using star emojis)
+#   isCurrent: bool - indicating currently reading
+#   completeDate: date of completion
+
+- title: System Design Interview
+  author: Alex Xu
+  summary: \"A book that shares a method to solving system design interviews but also a great book to learn a couple of technical core concepts for distributed systems. The books share many examples of systems you might be asked to design in an interview which is also useful.\"
+  link: https://amz.run/6LH2
+  rating: ⭐⭐⭐⭐⭐
+
+- title: Cracking the Coding Interview
+  author: Gayle Laakmann McDowell
+  summary: \"Very in depth book about coding interview at big tech companies. It provides advice on the interview process but also helps you train on classic coding interview problems. It's great to read the different interview questions chapters while doing some online coding problems on Leetcode or a website alike. There is a lot to read though so you might want to focus on specific chapters where you know you are lacking.\"
+  link: https://amz.run/6LHE
+  rating: ⭐⭐⭐⭐
